@@ -7,12 +7,11 @@ TikTok Content Creator, @naufazzzzz
 * Succeeded in creating videos that got viewed by over millions of people and reached people from more than 5 countries.
 * Reached over 4000+ followers and more than 800.000 likes
 * Formulated some viral videos with the knowledge of the current trends
-Owner, QGSkincare JULY/2020 – MAY/2021
+Owner, QGSkincare 
 * Launched a skincare share-in-jar small business online shop that successfully sold and markets the product to more than 100 customers.
 * Executed a small business with a total turnover of more than Rp20.000.000.
 * Orchestrated all the processes regarding the business start from the plan, marketing strategy, packaging, etc.
-ORGANIZATIONAL EXPERIENCE
-Staff Materi, PAMATEN Charity and Education Care (PARADE) NOVEMBER/2021 – FEBRUARY/2022
+Staff Materi, PAMATEN Charity and Education Care (PARADE) N
 * Responsible for creating and researching material about major in UNPAD as a team and creating content that related to college entrance exam for their Instagram pages.
 * Sufficiently create the total of 45+ pages of slides and 6 high quality content that use to inform the online roadshow participant
 * Succeeded to share tips and trick about college entrance exam through content on Instagram post and explain information about major in UNPAD via the offline and online roadshow
