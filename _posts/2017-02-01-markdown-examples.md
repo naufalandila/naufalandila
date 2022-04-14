@@ -3,83 +3,33 @@ title:  "Markdown examples"
 layout: post
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+TikTok Content Creator, @naufazzzzz
+* Succeeded in creating videos that got viewed by over millions of people and reached people from more than 5 countries.
+* Reached over 4000+ followers and more than 800.000 likes
+* Formulated some viral videos with the knowledge of the current trends
+Owner, QGSkincare JULY/2020 – MAY/2021
+* Launched a skincare share-in-jar small business online shop that successfully sold and markets the product to more than 100 customers.
+* Executed a small business with a total turnover of more than Rp20.000.000.
+* Orchestrated all the processes regarding the business start from the plan, marketing strategy, packaging, etc.
+ORGANIZATIONAL EXPERIENCE
+Staff Materi, PAMATEN Charity and Education Care (PARADE) NOVEMBER/2021 – FEBRUARY/2022
+* Responsible for creating and researching material about major in UNPAD as a team and creating content that related to college entrance exam for their Instagram pages.
+* Sufficiently create the total of 45+ pages of slides and 6 high quality content that use to inform the online roadshow participant
+* Succeeded to share tips and trick about college entrance exam through content on Instagram post and explain information about major in UNPAD via the offline and online roadshow
+ Social Media Strategist Staff, SxCEO Bandung Grand Summit
+* Handling SxCEO Bandung Grand Summit TikTok account as a team.
+* Responsible for the content idea and content production
+* Creating content that expected to engage a lot people.
+External Relation Staff, Himpunan Mahasiswa Bisnis Digital UNPAD
+* Become a liaison from and/or to external parties
+* Responsible for building a positive image of HIMAGI UNPAD
+* Introducing the Digital Business major to the public
+Social Media Strategist Staff, UNPAD English Student Union
+* Handling ESU UNPAD account as a team.
+*Responsible for the video content idea and production
+* Creating content that expected to engage a lot people.
+Helpee (Member), GrowthLabs
+* Became one of 150 people that get selected as a participant on a mentoring program.
+* Attended the mentoring program regularly and intensively.
+* Learned soft skill about self management, personal goals, problem solving, communication, etc.
 
-Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida. Duis ac tellus et risus vulputate vehicula. Donec lobortis risus a elit.
-
-
-## Heading Two (h2)
-
-### Heading Three (h3)
-
-#### Heading Four (h4)
-
-##### Heading Five (h5)
-
-###### Heading Six (h6)
-
-
-## Blockquotes
-
-### Single line
-
-> My mom always said life was like a box of chocolates. You never know what you're gonna get.
-
-### Multiline
-
-> What do you get when you cross an insomniac, an unwilling agnostic and a dyslexic?
->
-> You get someone who stays up all night torturing himself mentally over the question of whether or not there's a dog.
->
-> – _Hal Incandenza_
-
-## Horizontal Rule
-
----
-
-## Table
-
-| Title 1          | Title 2          | Title 3         | Title 4         |
-|------------------|------------------|-----------------|-----------------|
-| First entry      | Second entry     | Third entry     | Fourth entry    |
-| Fifth entry      | Sixth entry      | Seventh entry   | Eight entry     |
-| Ninth entry      | Tenth entry      | Eleventh entry  | Twelfth entry   |
-| Thirteenth entry | Fourteenth entry | Fifteenth entry | Sixteenth entry |
-
-## Code
-
-Source code can be included by fencing the code with three backticks. Syntax highlighting works automatically when specifying the language after the backticks.
-
-````
-```javascript
-function foo () {
-    return "bar";
-}
-```
-````
-
-This would be rendered as:
-
-```javascript
-function foo () {
-    return "bar";
-}
-```
-
-## Lists
-
-### Unordered
-
-* First item
-* Second item
-* Third item
-    * First nested item
-    * Second nested item
-
-### Ordered
-
-1. First item
-2. Second item
-3. Third item
-    1. First nested item
-    2. Second nested item
