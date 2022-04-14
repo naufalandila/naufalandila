@@ -10,4 +10,4 @@ categories: media
 
 ## Tech!
 
-I've been wanting to become either a UX Designer or an Software Developer!
+I've been wanting to become either a UX Designer or an Software Developer!!!!
