@@ -13,7 +13,7 @@ layout: post
 * Executed a small business with a total turnover of more than Rp20.000.000.
 * Orchestrated all the processes regarding the business start from the plan, marketing strategy, packaging, etc.
 
-## Staff Materi, PAMATEN Charity and Education Care (PARADE) N
+## Staff Materi, PAMATEN Charity and Education Care (PARADE)
 * Responsible for creating and researching material about major in UNPAD as a team and creating content that related to college entrance exam for their Instagram pages.
 * Sufficiently create the total of 45+ pages of slides and 6 high quality content that use to inform the online roadshow participant
 * Succeeded to share tips and trick about college entrance exam through content on Instagram post and explain information about major in UNPAD via the offline and online roadshow
@@ -30,7 +30,7 @@ layout: post
 
 ## Social Media Strategist Staff, UNPAD English Student Union
 * Handling ESU UNPAD account as a team.
-*Responsible for the video content idea and production
+* Responsible for the video content idea and production
 * Creating content that expected to engage a lot people.
 
 ## Helpee (Member), GrowthLabs
