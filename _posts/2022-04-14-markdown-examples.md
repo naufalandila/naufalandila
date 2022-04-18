@@ -10,7 +10,7 @@ layout: post
 
 ## Owner, QGSkincare 
 * Launched a skincare share-in-jar small business online shop that successfully sold and markets the product to more than 100 customers.
-* Executed a small business with a total turnover of more than Rp20.000.000.
+* Executed a small business with a total turnover of millions of rupiah.
 * Orchestrated all the processes regarding the business start from the plan, marketing strategy, packaging, etc.
 
 ## Staff Materi, PAMATEN Charity and Education Care (PARADE)
