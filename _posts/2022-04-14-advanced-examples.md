@@ -1,5 +1,5 @@
 ---
-title:  "What i want to learh furthermore"
+title:  "What i want to learn furthermore"
 mathjax: true
 layout: post
 categories: media
@@ -10,4 +10,4 @@ categories: media
 
 ## Tech!
 
-I've been wanting to become either a UX Designer or an Software Developer!!!!
+I've been wanting to become either an UX Designer or a Software Developer!!!!
