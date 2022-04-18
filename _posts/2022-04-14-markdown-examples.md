@@ -1,5 +1,6 @@
 ---
 title:  "My Experience!!"
+mathjax: true
 layout: post
 ---
 
@@ -17,6 +18,10 @@ layout: post
 * Responsible for creating and researching material about major in UNPAD as a team and creating content that related to college entrance exam for their Instagram pages.
 * Sufficiently create the total of 45+ pages of slides and 6 high quality content that use to inform the online roadshow participant
 * Succeeded to share tips and trick about college entrance exam through content on Instagram post and explain information about major in UNPAD via the offline and online roadshow
+
+
+
+
 
 ## Social Media Strategist Staff, SxCEO Bandung Grand Summit
 * Handling SxCEO Bandung Grand Summit TikTok account as a team.
